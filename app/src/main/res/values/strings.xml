@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <!-- Strings for labels on app screen. -->
+    <string name="can_you_ravenclaw">Think You Can Ravenclaw?</string>
+    <string name="about_quiz">Want to hang with the most intelligent house at Hogwarts? See how you stack up in these wizarding questions.</string>
+
+    <!-- Strings for question 1. -->
+    <string name="q1_prompt">In what year was Hogwarts founded?</string>
+    <string name="q1_option1">667 AD</string>
+    <string name="q1_option2">990 AD</string>
+    <string name="q1_option3">550 AD</string>
+    <string name="q1_option4">1247 AD</string>
+
+    <!-- Strings for question 2. -->
+    <string name="q2_prompt">Which magical creature, originating in Africa, can drive a person to insanity just by listening to its song?</string>
+    <string name="q2_option1">Fwooper</string>
+    <string name="q2_option2">Jobberknoll</string>
+    <string name="q2_option3">Mandrake</string>
+    <string name="q2_option4">Augurey</string>
+
+    <!-- Strings for question 3. -->
+    <string name="q3_prompt">Which ingredients are included in Felix Felicis? (Check all that apply; not all ingredients listed.)</string>
+    <string name="q3_option1">Tincture of thyme</string>
+    <string name="q3_option2">Lacewig flies</string>
+    <string name="q3_option3">Ashwinder egg</string>
+    <string name="q3_option4">A beazor</string>
+    <string name="q3_option5">Powdered common rue</string>
+
+    <!-- Strings for question 4. -->
+    <string name="q4_prompt">Which incantation conjures thin cords, binding your enemy?</string>
+    <string name="q4_option1">Incarcifors</string>
+    <string name="q4_option2">Piscifors</string>
+    <string name="q4_option3">Incarcerous</string>
+    <string name="q4_option4">Epoximise</string>
+
+    <!-- Strings for question 5. -->
+    <string name="q5_prompt">We all know Accio summons items, but which spell banishes items?</string>
+    <string name="q5_option1">Eradicus</string>
+    <string name="q5_option2">Reducio</string>
+    <string name="q5_option3">Dispelo</string>
+    <string name="q5_option4">Depulso</string>
+
+    <!-- Strings for question 5. -->
+    <string name="q6_prompt">Why do you want to join Ravenclaw?</string>
+
+    <!-- String for submit button. -->
+    <string name="button_text">Grade My Quiz!</string>
+</resources>
